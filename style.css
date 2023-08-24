@@ -1,0 +1,65 @@
+body,html{
+  margin: auto;
+  border: 5px bisque;
+  padding: 2%;
+  background-color: rosybrown;
+  text-align: center;
+  
+}
+#d1{
+  color: darkblue;
+}
+#d2{
+  color: darkblue;
+  
+}
+
+#destaque{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9Ys1eGP-Hd4-pC56FysD8x7f_t09iBKOUg&usqp=CAU);
+  text-align: center;
+  height: 400%;
+  color: rosybrown;
+  
+}
+#i1{
+  color: black;
+  text-align: center;
+}
+#texto3{
+  width: 70%;
+  border: 5px solid rosybrown;
+  float: center;
+  text-align: center;
+  padding: 0%;
+  
+}
+
+#i3{
+  color: black;
+  text-align: center;
+  
+}
+#texto2{
+  text-align: justify;
+  clear: both;
+  float: left;
+}
+#t1{
+  color: black;
+  text-align: center;
+}
+
+#t2{
+  color: black;
+  text-align: center;
+}
+#t3{
+  color: black;
+  text-align: center;
+}
+
+footer{
+  clear: both;
+  text-align: center;
+}
+
